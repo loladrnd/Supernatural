@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+
+title: "Supernatural"
+description: "Dangggg"
+nav:
+  - title: "Home"
+    url: /
+  - title: "Les personnages principaux"
+    url: /characters/Perso.md
+  - title: "Bestiaire"
+    url: /Bestiaire/bestiaire.md 
