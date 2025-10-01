@@ -2,10 +2,14 @@ Bienvenue dans mon blog dédié à la serie Supernatural !
 
 Les personnages principaux :
 
-[Dean Winchester](characters/Dean.md)
+[Dean](characters/Dean.md)
 
-[Sam Winchester](characters/Sam.md)
+[Sam](characters/Sam.md)
 
-[Dean Winchester]
+[Bobby](characters/Bobby.md)
 
-[Dean Winchester]
+[Castiel](characters/Castiel.md)
+
+
+Bestiaire : 
+
