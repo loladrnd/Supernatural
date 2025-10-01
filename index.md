@@ -4,7 +4,7 @@ Les personnages principaux :
 
 [Dean Winchester](characters/Dean.md)
 
-[Sam Winchester]
+[Sam Winchester](characters/Sam.md)
 
 [Dean Winchester]
 
