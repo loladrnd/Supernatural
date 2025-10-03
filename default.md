@@ -13,13 +13,7 @@
 
   <body>
 
-  
-        <header class="inner">
-        
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-        </header>
+       
     </div>
 
     <!-- MAIN CONTENT -->
