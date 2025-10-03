@@ -6,6 +6,6 @@
 
 [Anges](bestaire/ange.md)
 
-[Polymorphes](bestiaire/polymorphe.md)
+[Polymorphes](bestiaire/polymorphes.md)
 
 [Fantôme](bestaire/fantome.md)
