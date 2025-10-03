@@ -1,5 +1,3 @@
-Bienvenue dans mon blog dédié à la serie Supernatural ! 
-
 [Les personnages principaux](characters/Perso.md)
 
 [Bestiaire](bestiaire/bestiaire.md)
