@@ -9,3 +9,5 @@
 [Polymorphes](polymorphes.md)
 
 [Fantôme](fantome.md)
+
+[Créatures de mythes](creature.md)
