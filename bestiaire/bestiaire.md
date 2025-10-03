@@ -1,11 +1,11 @@
-[Démons](bestiaire/demon.md)
+[Démons](demon.md)
 
-[Vampires](bestaire/vampire.md)
+[Vampires](vampire.md)
 
-[Léviathans](bestiaire/leviathan.md)
+[Léviathans](leviathan.md)
 
-[Anges](bestaire/ange.md)
+[Anges](ange.md)
 
-[Polymorphes](bestiaire/polymorphes.md)
+[Polymorphes](polymorphes.md)
 
-[Fantôme](bestaire/fantome.md)
+[Fantôme](fantome.md)
