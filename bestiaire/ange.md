@@ -4,7 +4,7 @@ title: Personnages principaux
 layout: default
 ---
 
-[ <-- ](creatures.md)
+[ <-- ](bestiaire.md)
 
 # **Anges**
 
