@@ -1,3 +1,8 @@
+---
+title: Sam Winchester
+layout: default
+---
+
 # **Sam Winchester**
 
 ### Saisons
