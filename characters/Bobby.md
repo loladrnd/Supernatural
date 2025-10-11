@@ -1,3 +1,5 @@
 # **Bobby**
 
+layout: default
+
 ### Hunter
