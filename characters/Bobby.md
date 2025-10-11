@@ -2,6 +2,7 @@
 title: Bobby
 layout: default
 ---
-# **Bobby**
+
+# Bobby
 
 ### Hunter
