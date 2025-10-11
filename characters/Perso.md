@@ -1,3 +1,9 @@
+---
+title: Personnages principaux
+layout: default
+---
+# **Personnages principaux**
+
 | [![Dean](https://github.com/user-attachments/assets/7ce01197-f68b-43f5-9fda-2564546c8fe9)](/Supernatural/characters/Dean) | [![Sam](https://github.com/user-attachments/assets/8397edc2-64ef-4ff5-b0bd-8eb50bea0ef8)](/Supernatural/characters/Sam) | [![Bobby](https://github.com/user-attachments/assets/8f5e9c77-9fd2-4093-abf7-7199ee0e0696)](/Supernatural/characters/Bobby) | [![Castiel](https://github.com/user-attachments/assets/8f275bf0-b765-4fe9-977f-6a6f24025c95)](/Supernatural/characters/Castiel) |
 | :---------------------------: | :---------------------------: | :---------------------------: | :---------------------------: |
 |         *Dean*                |          *Sam*                |             *Bobby*           |           *Castiel*           | 
