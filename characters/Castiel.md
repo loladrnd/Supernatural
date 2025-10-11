@@ -1,4 +1,4 @@
-# **Castiel**
+# Castiel
 
 ### Espèce
 Ange
