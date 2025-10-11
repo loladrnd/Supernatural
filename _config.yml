@@ -1,10 +1,11 @@
 theme: jekyll-theme-slate
 
 title: "Supernatural"
-description: "Bienvenue dans mon blog dédié à la serie Supernatural !"
+description: "Bienvenue dans mon blog dédié à la série Supernatural !"
 nav:
   - title: "Home"
     url: /
   - title: "Les personnages principaux"
+    url: /characters/Perso.md 
   - title: "Bestiaire"
-    url: /Bestiaire/bestiaire.md 
+    url: /bestiaire/bestiaire.md 
