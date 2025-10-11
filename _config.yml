@@ -6,10 +6,5 @@ nav:
   - title: "Home"
     url: /
   - title: "Les personnages principaux"
-    url: /characters/Perso.md
-    ---
-    - title: Dean
-layout: default
----
   - title: "Bestiaire"
     url: /Bestiaire/bestiaire.md 
