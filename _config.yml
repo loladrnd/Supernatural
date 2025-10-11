@@ -6,6 +6,6 @@ nav:
   - title: "Home"
     url: /
   - title: "Les personnages principaux"
-    url: /characters/Perso.md 
+    url: /characters/Perso
   - title: "Bestiaire"
-    url: /bestiaire/bestiaire.md 
+    url: /bestiaire/bestiaire 
