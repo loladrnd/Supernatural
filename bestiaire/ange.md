@@ -1,8 +1,4 @@
 
---
-title: Personnages principaux
-layout: default
----
 
 [ <-- ](bestiaire.md)
 
