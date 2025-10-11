@@ -5,7 +5,7 @@ layout: default
 
 # **Sam Winchester**
 
-By comparison to his older, more aggressive brother, Sam is often the exasperated voice of reason. He does not see monsters in black and white like Dean. He operates on an innocent until proven guilty basis. However, don't let that big brain and kind eyes fool you into thinking he is nothing more than a bookworm.
+Après que le démon Azazel a tué leur mère, Mary, Sam et Dean ont été élevés dans la chasse par leur père, John. Sam a abandonné cette vie pour se consacrer au droit et aurait très probablement épousé son amour de jeunesse. Contrairement à Dean, Sam veut donner une seconde chance aux créatures surnaturelles.
 
 ### Saisons
 
