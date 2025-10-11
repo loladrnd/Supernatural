@@ -1,3 +1,7 @@
-# **Bobby** layout: default
+---
+# **Bobby**
+title: Bobby
+layout: default
+---
 
 ### Hunter
