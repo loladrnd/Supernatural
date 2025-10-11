@@ -2,7 +2,7 @@
 title: Personnages principaux
 layout: default
 ---
-[ <-- ](index.md)
+[ <-- ](.../index.md)
 
 # **Personnages principaux**
 
