@@ -2,7 +2,7 @@
 title: Bobby
 layout: default
 ---
-[ <-- ](perso.md)
+[ <-- ](Perso.md)
 
 # Bobby
 
