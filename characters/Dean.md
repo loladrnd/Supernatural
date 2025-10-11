@@ -1,4 +1,9 @@
-# **Dean Winchester**
+---
+title: Dean Winchester
+layout: default
+---
+
+# Dean Winchester
 
 ### Saisons 
 
