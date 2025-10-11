@@ -3,6 +3,8 @@ title: Dean Winchester
 layout: default
 ---
 
+[ <-- ](Perso.md)
+
 # Dean Winchester
 
 Dean est le frère aîné du duo principal. Il a été élevé dès l’enfance dans le monde de la chasse aux créatures surnaturelles. Loyal, impulsif et protecteur envers sa famille, il est profondément attaché à son rôle de chasseur. 
