@@ -3,6 +3,8 @@ title: Démons
 layout: default
 ---
 
+[ <-- ](bestiaire.md
+
 # **Démons**
 
 Les démons viennent de l'Enfer, mais étaient anciennement, pour la plupart, des humains. Un démon est en général une âme humaine torturée et corrompue par le mal en Enfer.
