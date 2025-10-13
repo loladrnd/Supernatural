@@ -1,5 +1,5 @@
 
-[ <-- ](.../index.md)
+[ <-- ](../index.md)
 
 # **Bestiaire**
 
@@ -7,10 +7,6 @@
 | :---------------------------: | :---------------------------: | :---------------------------: | 
 |         *Démons*              |          *Vampires*           |             *Anges*           |    
 
-[Léviathans](leviathan.md)
-
-[Polymorphes](polymorphes.md)
-
-[Fantôme](fantome.md)
-
-[Créatures de mythes](creature.md)
+| [![Leviathans](https://github.com/user-attachments/assets/f75d747d-1d97-47c9-9400-71c261f4acd0)](leviathan.md) | [![fantomes](https://github.com/user-attachments/assets/44c602bc-dc1f-4e87-aef6-5d00b796cfaa)](fantome.md) | [![polymorphes](https://github.com/user-attachments/assets/b699aa0f-bc66-45ac-ac6e-ed45fe90bde3)](polymorphes.md) |
+| :---------------------------: | :---------------------------: | :---------------------------: | 
+|         *Léviathans*          |          *Fantômes*           |          *Polymorphes*        |    
