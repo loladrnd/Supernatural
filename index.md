@@ -8,5 +8,5 @@
 
 [Bestiaire](bestiaire/bestiaire.md)
 
-
+[Objets](obj/objets.md)
 
