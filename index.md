@@ -8,5 +8,7 @@
 
 [Bestiaire](bestiaire/bestiaire.md)
 
-[Objets](obj/objets.md)
+### Mention spéciale <3 :
+
+
 
