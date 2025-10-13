@@ -12,6 +12,6 @@ Suite à la mort de leur père, Sam et Dean se tournent vers Bobby et le consid�
 
 1 à 12
 
-### Actor
+### Acteur
 
 Jim Beaver
