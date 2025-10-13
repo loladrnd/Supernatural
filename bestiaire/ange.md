@@ -5,7 +5,7 @@ layout: default
 
 [ <-- ](bestiaire.md)
 
-# **Anges**
+# Anges
 
 Les Anges sont des créations de Dieu(Chuck). Il existe 8 catégories d'Anges connus. Ces derniers, pour la plupart, ont tous une tâche précise à accomplir. La première mention d'Ange dans la série est à la saison 2 épisode 15, où le duo Sam et Dean font la connaissance de Gabriel l'embrouilleur, qui s'avèrera plus tard être un Archange de la création. De par leurs rangs céleste, les Anges sont plus puissants que les Démons aux yeux noir et les Démons des croisements. Contrairement aux démons qui étaient des humains, les anges ont été créé par Dieu et sont très anciens. Pour venir sur Terre et interagir avec les humains, ils doivent investir un hôte humain mais cela est possible que s'ils en obtiennent l'autorisation de l'hôte en question (par opposition à la possession démoniaque). Leurs véritables formes se présentent sous une lumière qui brûles les yeux des humains et leur voix ressemble à un cri, pouvant provoquer des hémorragies internes.
 
