@@ -11,7 +11,6 @@
 ### Mention spéciale :
 
 IMPALA 67 <3
-| ![impala](https://github.com/user-attachments/assets/6b33fe33-eb99-4708-9ec5-68f9990df8b7) | 
-| :---------------------------: | 
+ ![impala](https://github.com/user-attachments/assets/6b33fe33-eb99-4708-9ec5-68f9990df8b7) 
 
 
