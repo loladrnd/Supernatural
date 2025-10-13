@@ -9,3 +9,5 @@ nav:
     url: /characters/Perso
   - title: "Bestiaire"
     url: /bestiaire/bestiaire 
+  - title: "Objets emblématiques"
+    url: /obj/objets
