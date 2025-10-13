@@ -1,7 +1,7 @@
 
 [ <-- ](../index.md)
 
-# **Bestiaire**
+# Bestiaire
 
 | [![Démons](https://github.com/user-attachments/assets/b20bf367-65c2-4374-bbf8-a5914be3ffad)](../bestiaire/demon) | [![vampire](https://github.com/user-attachments/assets/39cf19c6-5316-41e9-a3a4-0e196e6dcb7e)](../bestiaire/vampire) | [![anges](https://github.com/user-attachments/assets/d1a556d3-2ac3-416d-b599-5c2a692a8410)](../bestiaire/ange)  | 
 | :---------------------------: | :---------------------------: | :---------------------------: | 
