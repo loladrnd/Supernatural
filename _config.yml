@@ -5,7 +5,7 @@ description: "Bienvenue dans mon blog dédié à la série Supernatural !"
 nav:
   - title: "Home"
     url: /
-  - title: "Les personnages principaux"
+  - title: "Personnages principaux"
     url: /characters/Perso
   - title: "Bestiaire"
     url: /bestiaire/bestiaire 
